@@ -1,0 +1,199 @@
+{
+
+  "basics": {
+    "name": "Serkan Sulun",
+    "label": "Deep Learning Researcher",
+    "summary": "I use deep learning applications on music and video.",
+    "location": {"address": "Porto, Portugal"},
+    "picture": "https://raw.githubusercontent.com/serkansulun/photo/master/inesc%20(crop).jpg",
+    "email": "serkan.sulun@inesctec.pt",
+    "profiles": []
+  },
+  
+  "work": [{
+    "company": "INESC TEC, Portugal",
+    "position": "Researcher",
+    "startDate": "2019-03-01",
+    "summary": "Enhancement of complex music signals using deep neural networks"
+  },
+          {
+    "company": "Koc University, Turkey",
+    "position": "Research assistant",
+    "startDate": "2016-09-26",
+    "endDate": "2018-11-26",
+    "summary": "Video compression and frame prediction using deep neural networks, including generative adversarial networks"
+  },
+           {
+    "company": "Koc University, Turkey",
+    "position": "Teaching assistant",
+    "startDate": "2016-09-26",
+    "endDate": "2018-11-26",
+    "summary": "Leading laboratory sessions and occasionally lectures on programming with MATLAB"
+  },
+            {
+    "company": "Telfs Youth Center Studio, Austria",
+    "position": "Sound engineer",
+    "startDate": "2014-10-11",
+    "endDate": "2015-08-04",
+    "summary": "Recording and mixing music performed by local youngsters"
+  },
+           {
+    "company": "Champalimaud Neuroscience Program, Portugal",
+    "position": "Intern",
+    "startDate": "2013-07-13",
+    "endDate": "2013-10-17",
+    "summary": "Processing neural signals and videos obtained by rat experiments, designing the controller board. Article acknowledgement: https://elifesciences.org/articles/11386"
+  },
+           {
+    "company": "Sabanci University, Turkey",
+    "position": "Peer instructor",
+    "startDate": "2010-02-21",
+    "endDate": "2014-06-02",
+    "summary": "Lecturing in small study groups and occasionally in amphitheaters on freshman chemistry and biology"
+  }
+          ],
+
+  "volunteer": [],
+
+  
+  "education": [{
+    "institution": "University of Porto",
+    "area": "Electrical and Computer Engineering",
+    "studyType": "Doctorate in",
+    "startDate": "2019-09-27"
+  },
+  {
+    "institution": "Koc University",
+    "area": "Electrical and Electronics Engineering",
+    "studyType": "Masters in",
+    "startDate": "2016-09-25",
+    "endDate": "2018-11-16",
+    "gpa": "GPA: 3.81"
+  },
+
+  {
+    "institution": "Sabanci University",
+    "area": "Electronics Engineering",
+    "studyType": "Bachelors in",
+    "startDate": "2009-09-28",
+    "endDate": "2014-06-12",
+    "gpa": "GPA: 3.86"
+  }
+    ],
+  "awards": [{
+    "title": "Doctoral Fellowship",
+    "awarder": "la Caixa Foundation"
+  },
+  {
+    "title": "Graduate Fellowship (Masters)",
+    "awarder": "Koc University"
+  },
+  {
+    "title": "Ranked 9 out of 204,392 in Turkish Academic Personnel and Graduate Education Exam"
+  },
+  {
+    "title": "Excellence Merit Scholarship (Bachelors)",
+    "awarder": "Sabanci University"
+  },
+  {
+    "title": "Employment Scholarship",
+    "awarder": "Sabanci University"
+  },
+  {
+    "title": "Bachelors Scholarship",
+    "awarder": "Prime Ministry of Turkey"
+  },
+  {
+    "title": "Ranked 297 out of 1,349,782 in Turkish University Entrance Exam"
+  },
+  {
+    "title": "Erasmus+ Exchange Grant",
+    "awarder": "EU Education, Audiovisual and Culture Executive Agency"
+  },
+  {
+    "title": "Erasmus+ Internship Grant",
+    "awarder": "EU Education, Audiovisual and Culture Executive Agency"
+  }
+  
+            ],
+  "publications": [{
+    "name": "Video Compression Using Learned Frame Prediction",
+    "publisher": "Springer Journal of Signal, Image and Video Processing",
+    "summary": "In review"
+  },
+  {
+    "name": "Deep Learned Frame Prediction for Video Compression",
+    "publisher": "Koc University",
+    "releaseDate": "2018-11-27",
+    "website": "https://arxiv.org/abs/1811.10946",
+    "summary": "Doctoral Thesis"
+  }],
+  "skills": [
+    {
+    "name": "Deep learning",
+    "keywords": [
+      "Pytorch",
+      "Tensorflow",
+      "Caffe",
+      "Generative Networks",
+      "Adversarial Learning",
+      "Recurrent Neural Networks",
+      "Reinforcement learning"
+    ]},
+    {
+    "name": "Programming",
+    "keywords": [
+      "Python",
+      "MATLAB",
+      "C++",
+      "Julia"
+    ]},
+    {
+    "name": "Signal processing",
+    "keywords": [
+      "Audio processing",
+      "Image processing",
+      "Video processing",
+      "Video compression",
+      "Computer vision"
+    ]},
+    {
+    "name": "Music production",
+    "keywords": [
+      "Cubase",
+      "Protools",
+      "Audacity",
+      "Music21",
+      "MIDI"
+    ]},
+    {
+    "name": "Miscellaneous",
+    "keywords": [
+      "Remote development",
+      "Machine learning",
+      "Git",
+      "LaTeX",
+      "Ubuntu",
+      "Windows"
+    ]}
+    
+  ],
+  "languages": [{
+    "language": "English",
+    "fluency": "Fluent"
+  },
+  {
+    "language": "Turkish",
+    "fluency": "Fluent"
+  },
+  {
+    "language": "Portuguese",
+    "fluency": "Beginner"
+  },
+  {
+    "language": "German",
+    "fluency": "Beginner"
+  }
+  ]
+
+}
